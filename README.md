@@ -4,7 +4,7 @@ Marc Frucci — Product. Builder. Systems.
 
 This isn't a code portfolio. It's a record of how I work: the frameworks I use to decide what's worth building, and the builds that came out of applying them.
 
-## The problem I keep getting handed
+## The kinds of problems I work on
 
 Problems without an owner tend to find their way to me. The ones where the ask is vague, the workflow crosses three teams' boundaries, nobody's agreed on what "done" looks like, and the org knows something is broken but hasn't figured out what to build in response. Or the ones where everyone knows a decision needs to be made but nobody has built the frame to make it — so it stalls, and the work waits.
 
