@@ -1,0 +1,28 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Generated document exports
+*.pdf
+*.docx
+~$*.docx
+
+# Dependencies and virtual environments
+node_modules/
+.venv/
+venv/
+
+# Generated output and caches
+dist/
+build/
+coverage/
+.cache/
+__pycache__/
+*.pyc
+*.log
+
+# Local editor and operating-system files
+.DS_Store
+.vscode/
+.idea/
