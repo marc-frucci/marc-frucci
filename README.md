@@ -8,7 +8,7 @@ This isn't a code portfolio. It's a record of how I work: the frameworks I use t
 
 Problems without an owner tend to find their way to me. The ones where the ask is vague, the workflow crosses three teams' boundaries, nobody's agreed on what "done" looks like, and the org knows something is broken but hasn't figured out what to build in response. Or the ones where everyone knows a decision needs to be made but nobody has built the frame to make it — so it stalls, and the work waits.
 
-That's true whether it's a complex enterprise workflow at work or my wife asking me to help her stop losing craft-fair leads on paper napkins. Different stakes, same shape of problem: real need, no defined product yet.
+That's true whether it's a complex enterprise workflow at work or my wife starting to sell at craft fairs. Talking with her about it and seeing what a fair was actually like made me realize a small tool might help. Different stakes, same shape of problem: real need, no defined product yet.
 
 ## How I work
 
