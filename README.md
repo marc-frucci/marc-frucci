@@ -12,7 +12,7 @@ That's true whether it's a complex enterprise workflow at work or my wife asking
 
 ## How I work
 
-The function is the same at every scale:
+Whatever the scale, the approach tends to look roughly the same:
 
 1. **Name the real problem.** Not the first version of the request — the thing actually underneath it. Most requests arrive as a proposed solution ("build us a dashboard," "make an app for this"). I go looking for the workflow and the failure mode behind that ask before I agree the ask is right.
 2. **Define the smallest useful boundary.** What has to be true for this to be worth building, what can stay manual, what's explicitly out of scope for now — and why. I write the exclusions down, not just the inclusions.

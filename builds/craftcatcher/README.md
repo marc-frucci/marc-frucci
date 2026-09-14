@@ -69,4 +69,4 @@ Run it at one real fair, unmodified, and see whether the follow-up owner can act
 
 ## What this demonstrates
 
-The instinct here wasn't "my wife needs an app." It was noticing a specific, recurring failure — good leads lost to the format they were captured in — and asking what the smallest possible intervention was before reaching for a bigger one. The AI boundary (assist, never block; structure, never invent) is the same discipline I apply at a much larger scale: let the tool do the part a person shouldn't have to do by hand, and don't let it quietly become the source of truth for something it didn't actually verify.
+The instinct here wasn't "my wife needs an app." It was noticing a specific, recurring failure — good leads lost to the format they were captured in — and asking what the smallest possible intervention was before reaching for a bigger one. The AI boundary here — assist, never block; structure, never invent — comes down to letting the tool do the part a person shouldn't have to do by hand, without letting it quietly become the source of truth for something it didn't verify.

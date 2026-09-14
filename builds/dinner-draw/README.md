@@ -40,4 +40,4 @@ Keep using it, unmodified, for a few more Sundays. The real test isn't whether t
 
 ## What this demonstrates
 
-This wasn't "we need a meal-planning app." It was noticing that the actual bottleneck was a recurring decision, not a lack of options, and scoping the tool to remove exactly that friction — nothing upstream (recipes, nutrition) and nothing downstream (the grocery list) got pulled in just because it was adjacent. The same discipline applies at a much bigger scale: name the real problem precisely enough that you know what to leave out, then build only that.
+This wasn't "we need a meal-planning app." It was noticing that the actual bottleneck was a recurring decision, not a lack of options, and scoping the tool to remove exactly that friction — nothing upstream (recipes, nutrition) and nothing downstream (the grocery list) got pulled in just because it was adjacent. The discipline here was mostly subtractive: name the real problem precisely enough that you know what to leave out, then build only that.
