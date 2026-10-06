@@ -40,3 +40,7 @@ This repo is being built in public, in the same way I build everything else: sma
 Much of the work that best shows my judgment as a product person isn't something I can publish directly. This repo makes the underlying thinking visible through shareable frameworks and personal builds.
 
 If you want to see how I reason before I build, start with `frameworks/foundry.md`. If you want to see that judgment applied to AI, start with `builds/craftcatcher/`. If you want to see the same discipline applied without AI, start with `builds/dinner-draw/`.
+
+## Get in touch
+
+[marcfrucci@gmail.com](mailto:marcfrucci@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marc-frucci-38138647)
