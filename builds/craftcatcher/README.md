@@ -46,7 +46,7 @@ Turns hurried shorthand into a predictable shape: an item/request type, a short 
 
 ## What AI is explicitly forbidden to do
 
-Invent or infer any customer requirement that wasn't actually said. If a detail is missing, it goes in the unresolved list. It is never guessed at or filled in. If the AI call fails, is unavailable, or returns something that doesn't validate against the expected shape, the tool does not block the save or silently drop information: the lead is saved as-is, flagged as not yet structured, with the raw notes fully intact.
+Invent or infer any customer requirement that wasn't actually said. If a detail is missing, it goes in the unresolved list instead of being guessed at or filled in by the model. If the AI call fails, is unavailable, or returns something that doesn't validate against the expected shape, the tool does not block the save or silently drop information: the lead is saved as-is, flagged as not yet structured, with the raw notes fully intact.
 
 ## Product decisions worth naming
 
@@ -69,4 +69,4 @@ Run it at one real fair, unmodified, and see whether the follow-up owner can act
 
 ## What this demonstrates
 
-The instinct here wasn't "my wife needs an app." It was noticing a specific, recurring failure (good leads lost to the format they were captured in) and asking what the smallest possible intervention was before reaching for a bigger one. The AI boundary here (assist, never block; structure, never invent) comes down to letting the tool do the part a person shouldn't have to do by hand, without letting it quietly become the source of truth for something it didn't verify.
+The instinct here wasn't "my wife needs an app." It was being at the booth with her, seeing how a paper napkin or scratch pad actually holds up against a fast, half-finished conversation, and asking what the smallest possible intervention was before reaching for a bigger one. The AI boundary here (assist, never block; structure, never invent) comes down to letting the tool do the part a person shouldn't have to do by hand, without letting it quietly become the source of truth for something it didn't verify.

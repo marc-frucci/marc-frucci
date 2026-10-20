@@ -17,11 +17,11 @@ A 7-day rotation board generated from a saved meal catalog. **Roll the Week** fi
 - Every full reroll is kept in a session history, so this week's board can be compared against the last few rolls before it's accepted, not just accepted on faith the first time it looks reasonable.
 - A flex night sits in the board as its own slot, not a leftover gap.
 
-It's pure Python standard library: no external dependencies, no API calls, nothing that can go down mid-Sunday. It runs locally with a full unit test suite covering the selection logic and the board actions.
+It's pure Python standard library: no external dependencies, no API calls. It runs locally with a full unit test suite covering the selection logic and the board actions.
 
 ## The operators
 
-Built for the family: both adults taken into account in the design, but initially run by one. The real test is whether it becomes the thing we both reach for on Sundays, not just a tool one person maintains on behalf of the household. It's already been used for a real week of real meals, not a demo week.
+Designed with both adults in mind; so far it's been run by one. The real test is whether it becomes the thing we both reach for on Sundays, not just a tool one person maintains on behalf of the household. It's already been used for a real week of real meals, not a demo week.
 
 ## Product decisions worth naming
 
@@ -32,11 +32,11 @@ Built for the family: both adults taken into account in the design, but initiall
 
 ## Current state
 
-This tool spent two weeks in Foundry (iterated, pressure-tested, shaped) before going live. It's now replaced the manual notepad that was doing this job before. One week of real use as the primary planning surface for me. Still early, but it's the thing I reach for now.
+This tool went through real iteration before it settled, not just upfront shaping: running an early version against actual Sundays surfaced friction (locking a night I'd already decided on, friction just adding a new meal to the catalog, among other things) that only showed up from using it, even though I was the only user. It's replaced the manual notepad that did this job before, and it's what I actually reach for every week now. What it solves is real, even at this scale: it takes the burden of inventing a plan off me on a day when, as an exhausted parent, generating one more decision from scratch is exactly the kind of load I don't have spare capacity for.
 
 ## The next bounded step
 
-Keep using it, unmodified, for a few more Sundays. The real test isn't whether the build works. It does. It's whether it actually removes the Sunday friction over repeated use, once the novelty of a new tool wears off and it's just the thing we reach for. That answer comes from weeks of use, not from the build itself.
+The build itself works, and it's already the thing I reach for weekly. What's still untested is whether it becomes a shared tool rather than one I maintain for the household: the real test is whether my wife reaches for it too, not just whether it keeps working for me.
 
 ## What this demonstrates
 

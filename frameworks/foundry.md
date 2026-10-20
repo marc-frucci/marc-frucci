@@ -1,6 +1,6 @@
 # Foundry
 
-Foundry is the framework I run every idea through before I decide whether it's worth building. It's the layer between "I have an idea" and "I'm opening an editor." That's the thing that decides what should get built before anyone decides how.
+Foundry is the framework I run ideas through before I decide whether they're worth building. It's the layer between "I have an idea" and "I'm opening an editor." That's the thing that decides what should get built before anyone decides how.
 
 I built it because I noticed the same failure mode kept happening: an idea would sound reasonable, I'd start building, and three days in I'd realize either the real problem was something else, or the thing I was building was three times bigger than the problem justified. Foundry is the discipline that catches that earlier and cheaper.
 
@@ -27,7 +27,7 @@ It optimizes for useful software, not impressive software. Not every idea needs 
 
 **New idea**: the idea hasn't been shaped yet. Start from discovery and move through the stages below until it's ready to build, deliberately deferred, reduced to a smaller experiment, or rejected because the problem doesn't justify a build.
 
-**Existing build**: something already exists or is in progress. I don't restart discovery from zero. I reconcile the current state of the repo, whatever brief or governing docs already exist, what was actually implemented, and any real usage or operational learning against the new question I'm bringing to it. The working system is treated as reality; the old brief is treated as a snapshot of past intent, not gospel.
+**Existing build**: something already exists or is in progress. I don't restart discovery from zero. I reconcile the current state of the repo, whatever brief or governing docs already exist, what was actually implemented, and any real usage or operational learning against the new question I'm bringing to it.
 
 ## The phases
 
@@ -35,7 +35,7 @@ It optimizes for useful software, not impressive software. Not every idea needs 
 
 Articulate the idea before trying to solve it. Establish the user, the actual problem, the current workflow or behavior, what triggers the need, the desired outcome, and why the current state isn't good enough.
 
-I'm listening for the underlying workflow or need, not just accepting the first proposed solution at face value. Most ideas arrive already wearing a solution, and that solution is often not the right one.
+I'm listening for the underlying workflow or need, not just accepting the first proposed solution at face value.
 
 *Move on once the problem, user, trigger, and intended outcome can be stated plainly, without major ambiguity.*
 
