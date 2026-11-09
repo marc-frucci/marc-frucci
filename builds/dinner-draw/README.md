@@ -10,7 +10,7 @@ Dinner Draw is a weekly dinner planner for a household that already knows what i
 
 ## The problem
 
-Every Sunday, the same question came up: what are we eating this week. Nobody wanted to own the answer. With two working parents and twin four-year-olds, choosing meals from scratch every week—even meals we'd happily eat again—took more mental effort than it should have for a decision we'd already effectively made a dozen times before.
+Every Sunday, the same question came up: what are we eating this week. Nobody wanted to own the answer. With working parents and kids, choosing meals from scratch every week—even meals we'd happily eat again—took more mental effort than it should have for a decision we'd already effectively made a dozen times before.
 
 The problem was never finding recipes. We have plenty we like. The problem was the blank page: deciding, from memory, under time pressure, on a Sunday, what to assign to seven nights, while also making room for leftovers, a night that doesn't need a plan at all, and the fact that some nights are already spoken for before the rest gets figured out.
 
@@ -31,7 +31,7 @@ It runs locally on Python's standard library, with no external dependencies or t
 
 ## The operators
 
-It's built for our household: two adults and twin four-year-olds. So far it's been run by one adult: me. It's already been used for real weeks of real meals, not a demo week, and whether it ends up shared is the adoption question that matters most.
+It's built for our household, and so far it's been run only by me, as resident chef. It's now my default weekly planner, used for real weeks of real meals, not a demo week. Whether it ends up shared is the adoption question that matters most.
 
 ## Product decisions worth naming
 
